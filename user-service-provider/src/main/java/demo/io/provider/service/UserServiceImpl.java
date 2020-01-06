@@ -1,4 +1,4 @@
-package demo.io.provider;
+package demo.io.provider.service;
 
 import com.alibaba.dubbo.config.annotation.Service;
 import demo.io.api.domain.UserAddress;

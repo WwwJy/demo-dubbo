@@ -1,4 +1,4 @@
-package demo.io.provider;
+package demo.io.provider.service;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

@@ -4,7 +4,7 @@ dubbo:
   application:
     name: user-service-provider
   registry:
-    address: localhost:2181
+    address: 101.132.97.99:2181
     protocol: zookeeper
   protocol:
     name: dubbo

@@ -1,0 +1,10 @@
+server:
+  port: 8081
+dubbo:
+  application:
+    name: user-service-consumer
+  registry:
+    address: localhost:2181
+    protocol: zookeeper
+  monitor:
+    protocol: registry
